@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santiago and Zenaida//Golden Anniversary//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:golden-anniversary-20260905@santiago-zenaida.local
+DTSTAMP:20260703T000000Z
+DTSTART;TZID=Asia/Manila:20260905T090000
+DTEND;TZID=Asia/Manila:20260905T143000
+SUMMARY:Santiago & Zenaida's Golden Wedding Anniversary
+LOCATION:Our Lady of Remedies Parish\, 2000 M.H. Del Pilar Street\, Malate\, Manila
+DESCRIPTION:Holy Mass and renewal of wedding vows at 9:00 AM. Reception at Estoria Manila\, Jose Rizal Hall\, from 11:00 AM.
+END:VEVENT
+END:VCALENDAR
