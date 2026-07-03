@@ -274,8 +274,7 @@ img { display: block; max-width: 100%; }
 .notes-frame { position: absolute; inset: 0; background: url('./assets/theme/floral-frame.png') center / cover no-repeat; opacity: .19; pointer-events: none; }
 .notes-grid { position: relative; z-index: 2; display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; width: min(90%, 72rem); margin: 0 auto; }
 .note { min-height: 19rem; padding: clamp(1.8rem, 4vw, 3rem); border-top: 1px solid var(--gold); background: rgba(255,252,244,.82); box-shadow: 0 1.4rem 3.8rem rgba(87,62,30,.07); }
-.note-number { color: var(--gold); font: italic 2.5rem/1 var(--serif); }
-.note h3 { margin: 1.3rem 0 .7rem; color: var(--gold-deep); font: 500 1.7rem var(--serif); }
+.note h3 { margin: 0 0 .7rem; color: var(--gold-deep); font: 500 1.7rem var(--serif); }
 .note p { margin: 0; color: var(--muted); }
 .palette { display: flex; gap: 1rem; margin-top: 1.4rem; }
 .palette span { display: flex; flex-direction: column; align-items: center; gap: .4rem; color: var(--muted); font: .62rem var(--sans); text-transform: uppercase; }
